@@ -16,27 +16,27 @@ tooling:
   PuyoTextEditor:
     service: app
 
-  process_pac_files:
+  extract:
     service: app
     cmd:
       - app: "/app/.lando/process_pac_files.sh /app/0src /app/1converted"
 
-  copy_files_recursive:
+  cnvrs_to_xml:
     service: app
     cmd:
       - app: "/app/.lando/copy_files_recursive.sh /app/1converted/ /app/2xml"
 
-  convert_xmls_to_cnvrs_back:
+  xml_to_cnvrs:
     service: app
     cmd:
       - app: "/app/.lando/convert_xmls_to_cnvrs_back.sh /app/2xml/ /app/3cnvrs"
 
-  convert_back_to_pac:
+  pack:
     service: app
     cmd:
       - app: "/app/.lando/convert_back_to_pac.sh /app/3cnvrs /app/4newpac"
 
-  change_langcode_to_ko_in_xmls:
+  change_langcode_to_fr_in_xmls:
     service: app
     cmd:
-      - app: find /app/2xml -type f -name "*.xml" -exec sed -i 's/<sheet name="en" index="1">/<sheet name="ko" index="7">/g' {} \;
+      - app: find /app/2xml -type f -name "*.xml" -exec sed -i 's/<sheet name="en" index="1">/<sheet name="fr" index="4">/g' {} \;
