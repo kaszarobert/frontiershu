@@ -35,3 +35,8 @@ tooling:
     service: app
     cmd:
       - app: "/app/.lando/convert_back_to_pac.sh /app/3cnvrs /app/4newpac"
+
+  change_langcode_to_ko_in_xmls:
+    service: app
+    cmd:
+      - app: find /app/2xml -type f -name "*.xml" -exec sed -i 's/<sheet name="en" index="1">/<sheet name="ko" index="7">/g' {} \;
