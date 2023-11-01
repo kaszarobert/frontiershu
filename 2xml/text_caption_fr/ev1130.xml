@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1130_010" id="686906718" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I am extending the range of my control, but I can still only command a few of the Ancients’ relics at a time.
+      Kiterjesztem az irányításom hatókörét, de még mindig csak néhánynak tudok parancsolni az Ősök ereklyéiből egyszerre.
     </text>
     <text name="ev1130_020" id="686906845" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Commendable, but what about finding me a way out of this digital dimension?
+      Dicséretes, de mi lenne, ha megtalálnánk a kiutat ebből a digitális dimenzióból?
     </text>
     <text name="ev1130_030" id="686906972" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I have run one million, seven hundred thousand and fifty simulations. There is no scenario to safely remove you from Cyber Space.
+      1 700 050 szimulációt futtattam le. Nincs olyan forgatókönyv, amivel biztonságosan eltávolíthatnálak a Kibertérből.
     </text>
     <text name="ev1130_040" id="686907099" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Unacceptable! Keep looking! Make it your number one priority!
+      Elfogadhatatlan! Keresd tovább! Legyen ez az első számú prioritás!
     </text>
     <text name="ev1130_050" id="686907226" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      But... keeping you safe is my priority...
+      De... a biztonságod az első számú prioritásom...
     </text>
   </sheet>
   <fonts>

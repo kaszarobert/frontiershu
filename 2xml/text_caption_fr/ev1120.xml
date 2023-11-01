@@ -2,22 +2,22 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1120_010" id="2008275679" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Keep tabs on the hedgehog. I want constant updates!
+      Tartsd szemmel a sündisznót! Folyamatos tájékoztatást kérek!
     </text>
     <text name="ev1120_020" id="2008275806" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yes sir.
+      Igenis.
     </text>
     <text name="ev1120_030" id="2008275933" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      And keep looking for a way to get me out of here!
+      És keress valami módot rá, hogy kijuthassak innen!
     </text>
     <text name="ev1120_040" id="2008276060" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I am evaluating all safe options.
+      Felmérem az összes biztonságos lehetőséget.
     </text>
     <text name="ev1120_050" id="2008276187" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Keep up the good work, Sage.
+      Folytasd a jó munkát, Sage!
     </text>
     <text name="ev1120_060" id="2008276314" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Thank you, Doctor.
+      Köszönöm, Doktor.
     </text>
   </sheet>
   <fonts>

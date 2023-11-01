@@ -2,13 +2,13 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1020_010" id="2318409182" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Amy! Is that you?
+      Amy! Te vagy az?
     </text>
     <text name="ev1020_020" id="2318409309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hello? Is someone there? Help me!
+      Hahó? Van ott valaki? Segítség!
     </text>
     <text name="ev1020_030" id="2318409436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hang on! Maybe messing with the ruins will fix things.
+      Tarts ki! Hang on! Talán a romokkal babrálás megoldja a dolgokat.
     </text>
   </sheet>
   <fonts>
