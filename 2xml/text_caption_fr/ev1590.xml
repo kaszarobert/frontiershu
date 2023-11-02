@@ -2,25 +2,25 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1590_010" id="108093532" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You need to ascend the four Towers of the Masters.
-      They are memorials to the pilots who gave their lives to save the world.
+      A Mesterek négy Tornyát kell megmásznod.
+      Ezek a pilóták emlékművei, akik életüket adták a világ megmentéséért.
     </text>
     <text name="ev1590_020" id="108093659" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Pilots, they were who I saw in those visions, right?
-      The ones controlling the Titans?
+      A pilóták - őket láttam a látomásokban, igaz?
+      Akik a Titánokat irányították?
     </text>
     <text name="ev1590_030" id="108093786" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yes. The very Titans you destroyed.
+      Igen. A Titánokat, amiket elpusztítottál.
     </text>
     <text name="ev1590_040" id="108093913" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hey, I asked you to explain things from the beginning, remember?
+      Hé, már az elején kértelek, hogy magyarázd el a dolgokat, emlékszel?
     </text>
     <text name="ev1590_050" id="108094040" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That is irrelevant now. Hidden across the island are the components needed to construct the keys to each tower. Find them, ascend the towers, complete their trials, and you will gain control over the cyber corruption.
+      Most már nem számít. A szigeten el vannak rejtve az egyes tornyok kulcsainak megépítéséhez szükséges összetevők. Találd meg azokat, mássz fel a tornyokba, teljesítsd a próbákat, és uralhatod a kiber-károsodást.
     </text>
     <text name="ev1590_060" id="108094167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Pieces make Keys, Keys unlock towers, towers make me more awesome.
-      Got it! Back in a flash!
+      A darabokból kulcsok lesznek, azok kinyitják a tornyokat, a tornyok pedig királyabbá tesznek engem.
+      Értem! Egy szempillantás alatt itt vagyok!
     </text>
   </sheet>
   <fonts>

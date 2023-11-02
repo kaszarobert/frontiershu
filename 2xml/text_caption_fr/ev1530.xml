@@ -2,20 +2,20 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1530_010" id="3741340002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Maybe I can get some insight with my Fortune Cards!
+      Talán a jövendőmondó kártyáim adnak némi betekintést!
     </text>
     <text name="ev1530_020" id="3741340129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev1530_030" id="3741340256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev1530_040" id="3741340383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev1530_050" id="3741340510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      All the cards are telling me is that things are “obscured” and “danger approaches.”
-      I knew that already!
+      A kártyák csak annyit mondanak, hogy a dolgok "zavarosak" és "veszély közeledik".
+      Ezeket már tudtam!
     </text>
     <text name="ev1530_060" id="3741340637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Wait! "Seek insight from unfamiliar places"?
+      Várjunk! "A válaszokat keresd idegen helyeken"?
     </text>
     <text name="ev1530_070" id="3741340764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh, the Koco! Of course! They should be able to help!
+      Ó, a Koco-k! Hát, persze! Biztos tudnak segíteni!
     </text>
   </sheet>
   <fonts>

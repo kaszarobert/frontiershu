@@ -2,15 +2,15 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1730_010" id="3121072996" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Every time I interact with Cyber Space I'm getting more corrupted!
+      Ahányszor kapcsolatba kerülök a Kibertérrel, jobban és jobban károsít engem!
     </text>
     <text name="ev1730_020" id="3121073123" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      This... is what Sonic was dealing with this whole time.
-      I knew he was sick, but I never realized it was like this. 
+      Ez... ez az, amivel Sonic egész idő alatt bajlódott.
+      Tudtam, hogy beteg, de sosem gondoltam volna, hogy ennyire.
     </text>
     <text name="ev1730_030" id="3121073250" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      If I'm going to be at his side, then I need to keep at his pace!
-      I won't let this stop me!
+      Ha mellette akarok lenni, akkor az ő tempóját kell tartanom!
+      Nem hagyom, hogy ez megállítson!
     </text>
   </sheet>
   <fonts>

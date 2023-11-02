@@ -2,7 +2,7 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1160_010" id="1017767131" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Még mindig a Koco-ra gondolsz?
+      Még mindig a Koco-kra gondolsz?
     </text>
     <text name="ev1160_020" id="1017767258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Igen. És... a többire.
@@ -14,7 +14,7 @@
       Ha túl leszünk ezen, meg akarom ezt az erőt osztani a világgal! Akkor is... ha ez messze elszakít minket egymástól.
     </text>
     <text name="ev1160_050" id="1017767639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Tudom, hogy remekül fog menni! Ha visszatérsz, mindenről számolj majd be nekem!
+      Tudom, hogy remekül fog menni. Ha visszatérsz, mindenről számolj majd be nekem!
     </text>
   </sheet>
   <fonts>

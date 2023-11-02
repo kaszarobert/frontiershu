@@ -2,24 +2,24 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev1670_010" id="2440697951" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Bravo. You are every bit the hero I hoped you would be.
-      My people thought the same of me. They looked to me for hope and inspiration.
+      Bravó. Minden tekintetben olyan hős vagy, amilyennek reméltem.
+      Az én népem ugyanezt gondolta rólam. Én nyújtottam reményt és inspirációt.
     </text>
     <text name="ev1670_015" id="2440697956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I... wasn't enough.
+      De... ez kevés volt.
     </text>
     <text name="ev1670_020" id="2440698078" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You freed my dearest friends from their Titan shells, 
-      and for that you have my deepest thanks.
+      Kiszabadítottad legkedvesebb barátaimat a Titán burkukból,
+      és ezt a legmélyebb hálával köszönöm.
     </text>
     <text name="ev1670_025" id="2440698083" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I, however, was lost. What you see now is the memory of me before we
-      flew into battle. I always wondered how things ended.
-      Now I know.
+      Én azonban vesztettem. Amit most látsz, az az én emlékem,
+      mielőtt a csatába repültünk. Mindig is kíváncsi voltam, hogyan végződött.
+      Most már tudom.
     </text>
     <text name="ev1670_030" id="2440698205" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Take my blessing, and with it, my thanks and my hopes.
-      You are this world's hero now.
+      Fogadd áldásomat, és vele együtt köszönetemet és reményeimet.
+      Most már te vagy e világ hőse.
     </text>
   </sheet>
   <fonts>
