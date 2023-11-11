@@ -2,20 +2,20 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3010_010" id="2175279709" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      No. Not again! You stay right where you are, Emeralds!
+      Nem. Már megint! Maradjatok ott, Smaragdok!
     </text>
     <text name="ev3010_020" id="2175279836" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev3010_030" id="2175279963" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Patience, hedgehog. You’ve made a career out of finding those things.
+      Türelem, sündisznó. Karriert csináltál abból, hogy keresed ezeket a dolgokat.
     </text>
     <text name="ev3010_040" id="2175280090" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Thy next foe hides amid fire and ruin.
+      A következő ellenséged tűz és romok közt rejtőzik.
     </text>
     <text name="ev3010_050" id="2175280217" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yeah-yeah, I’m getting to it. I don’t suppose you want to explain why I keep losing the emeralds?
+      Igen-igen, már kezdem is. Gondolom, nem akarod megmagyarázni, miért veszítem el folyton a smaragdokat?
     </text>
     <text name="ev3010_060" id="2175280344" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Thanks. You’ve been a huge help.
+      Kösz. Nagy segítség voltál.
     </text>
   </sheet>
   <fonts>

@@ -2,17 +2,17 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2040_010" id="3238389339" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      M’kay. How do I get up there?
+      Oké, hogy jutok fel oda?
     </text>
     <text name="ev2040_020" id="3238389466" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You do not.
+      Sehogy.
     </text>
     <text name="ev2040_030" id="3238389593" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev2040_040" id="3238389720" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      While I cannot fully control it, I can awaken its rage against you.
+      Bár nem tudom teljesen irányítani, fel tudom ébreszteni a dühét ellened.
     </text>
     <text name="ev2040_050" id="3238389847" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I need to find someplace safe!
+      Keresnem kell egy biztonságos helyet!
     </text>
   </sheet>
   <fonts>

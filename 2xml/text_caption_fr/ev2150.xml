@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2150_010" id="1606886875" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They're... gone. It killed them.
+      Már... nincsenek. Mind megölte őket!
     </text>
     <text name="ev2150_020" id="1606887002" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Not bad. Things would’ve been over faster if I’d been “Super Knuckles,” but you did all right.
+      Nem rossz. Gyorsabban vége lett volna a dolognak, ha én lettem volna "Szuper Knuckles", de jól csináltad.
     </text>
     <text name="ev2150_030" id="1606887129" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yeah, you keep telling yourself that.
+      Igen, mondogasd csak magadnak!
     </text>
     <text name="ev2150_040" id="1606887256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I’ve got one more titan-bot to go. Hopefully I’ll find Tails too. I’m worried about him.
+      Még egy titánrobot van hátra. Remélhetőleg megtalálom Tails-t is! Aggódom érte.
     </text>
     <text name="ev2150_050" id="1606887383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      He’ll be all right. Now hurry up and save the day already.
+      Kutya baja se lesz. Most viszont húzz bele a megmentésbe!
     </text>
   </sheet>
   <fonts>

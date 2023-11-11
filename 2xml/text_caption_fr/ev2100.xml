@@ -3,29 +3,29 @@
   <sheet name="fr" index="4">
     <text name="ev2100_010" id="3918764384" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev2100_020" id="3918764511" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Then the robot hit him again!
+      Aztán a robot megint megütötte.
     </text>
     <text name="ev2100_030" id="3918764638" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev2100_040" id="3918764765" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I look forward to your battle reports once we’re home.
+      Várom a csatajelentéseket, amint hazaérünk.
     </text>
     <text name="ev2100_050" id="3918764892" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Home?
+      Haza?
     </text>
     <text name="ev2100_060" id="3918765019" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I’ll integrate you into my system. Give you control of the whole EggNet! I’ll have you network all my robots.
+      Beépítelek a rendszerembe. Átadom neked az irányítást az egész EggNet felett! Az összes robotomat hálózatba kötöm veled.
     </text>
     <text name="ev2100_070" id="3918765146" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You’ll be a refreshing change of pace from Orbot and Cubot.
+      Felüdülés leszel az Orbot és Cubot után.
     </text>
     <text name="ev2100_080" id="3918765273" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They are your creations, like me. That would make them like... my brothers?
+      Ők a te alkotásaid, akárcsak én. Akkor ők lennének... a testvéreim?
     </text>
     <text name="ev2100_090" id="3918765400" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hmm. I suppose so.
+      Hmm. Azt hiszem, igen.
     </text>
     <text name="ev2100_100" id="3918780386" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-       I look forward to that.
+       Már alig várom!
     </text>
   </sheet>
   <fonts>

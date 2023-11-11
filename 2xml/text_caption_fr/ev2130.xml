@@ -2,32 +2,32 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2130_010" id="4249624797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Is this the place?
+      Ez az a hely?
     </text>
     <text name="ev2130_020" id="4249624924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yo, Knux?
+      Hé, Knux?
     </text>
     <text name="ev2130_030" id="4249625051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Sonic, this... this looks like ruins from back home. What if the people of these islands survived and resettled on Angel Island?
+      Sonic, ez... ez úgy néz ki, mint az otthoni romok. Mi van, ha a szigetek lakói túlélték és áttelepültek az Angyal-szigetre?
     </text>
     <text name="ev2130_040" id="4249625178" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That’d make this pretty important.
+      Az fontossá tenné ezt.
     </text>
     <text name="ev2130_050" id="4249625305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev2130_060" id="4249625432" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That’s... not a GOOD sound.
+      Ez... nem egy JÓ hang.
     </text>
     <text name="ev2130_070" id="4249625559" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They’re going to assault the bunker! 
+      Meg fogják támadni a bunkert.
     </text>
     <text name="ev2130_080" id="4249625686" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I can’t... I can’t lose this...
+      Ezt nem... Ezt nem veszíthetem el!
     </text>
     <text name="ev2130_090" id="4249625813" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      We’ve got this buddy. I’ve got your back.
+      Megoldjuk, haver. Fedezlek.
     </text>
     <text name="ev2130_100" id="4249640799" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Thank you, Sonic.
+      Kösz, Sonic.
     </text>
   </sheet>
   <fonts>

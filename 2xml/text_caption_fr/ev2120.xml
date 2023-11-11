@@ -2,20 +2,20 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2120_010" id="1276026462" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I don’t care if you’re afraid! Those are your people out there!
+      Nem érdekel, hogy féltek! Azok ott kint a tieitek!
     </text>
     <text name="ev2120_020" id="1276026589" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hey, coach, what's with the pep talk?
+      Hé, edző, mi ez a lelkesítő beszéd?
     </text>
     <text name="ev2120_030" id="1276026716" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev2120_040" id="1276026843" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      With the defenses down the soldiers are supposed to fall back to a bunker.
+      Védelem híján a katonáknak vissza kellene vonulniuk egy bunkerbe.
     </text>
     <text name="ev2120_050" id="1276026970" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Then I’ll round-up the stragglers and you supervise, commander.
+      Aztán én összeszedem az elmaradottakat, te pedig felügyeled, parancsnok!
     </text>
     <text name="ev2120_060" id="1276027097" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That sounds... that sounds good.
+      Ez... ez jól hangzik.
     </text>
   </sheet>
   <fonts>

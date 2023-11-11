@@ -2,28 +2,28 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2900_010" id="1437696360" font="Range_FNT" layout="Range_LAY">
-      Talk to Knuckles
+      Beszélj Knuckles-el
     </text>
     <text name="ev2900_020" id="1437696487" font="Range_FNT" layout="Range_LAY">
-      Find Knuckles
+      Találd meg Knuckles-t
     </text>
     <text name="ev2900_030" id="1437696614" font="Range_FNT" layout="Range_LAY">
-      Get the Chaos Emerald
+      Szerezd meg a Káosz Smaragdot
     </text>
     <text name="ev2900_040" id="1437696741" font="Range_FNT" layout="Range_LAY">
-      Collect Vault Keys from Portals
+      Gyűjts Széf Kulcsokat a Portálokból
     </text>
     <text name="ev2900_050" id="1437696868" font="Range_FNT" layout="Range_LAY">
-      Go through the cave
+      Menj át a barlangon
     </text>
     <text name="ev2900_070" id="1437697122" font="Range_FNT" layout="Range_LAY">
-      Solve the puzzle
+      Oldd meg a rejtvényt
     </text>
     <text name="ev2900_080" id="1437697249" font="Range_FNT" layout="Range_LAY">
-      Collect Knuckles' Memory Tokens
+      Gyűjts Knuckles Emlékjeleket
     </text>
     <text name="ev2900_090" id="1437697376" font="Range_FNT" layout="Range_LAY">
-      Search for friends
+      Keresd a barátokat
     </text>
   </sheet>
   <fonts>

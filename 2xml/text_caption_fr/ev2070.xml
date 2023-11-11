@@ -2,17 +2,17 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2070_010" id="3569249752" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      What’s up?
+      Mi újság?
     </text>
     <text name="ev2070_020" id="3569249879" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      These Koco are supposed to link up with another unit, 
-      but an enemy has them pinned down here.
+      Ezeknek a Koco-knak egy másik egységhez kellene csatlakozniuk,
+      de az ellenség itt tartja őket.
     </text>
     <text name="ev2070_030" id="3569250006" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Aren’t YOU supposed to be helping find the Emeralds?
+      Nem neked kellene segítened megtalálni a Smaragdokat?
     </text>
     <text name="ev2070_040" id="3569250133" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I can do both. Hurry up if you want in on the fight!
+      Azt is csinálom. Siess, ha be akarsz szállni a harcba!
     </text>
   </sheet>
   <fonts>

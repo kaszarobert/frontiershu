@@ -2,10 +2,10 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev2050_010" id="1917020378" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You cannot run forever. Final warning: leave.
+      Nem futhatsz örökké. Utolsó figyelmeztetés: távozz!
     </text>
     <text name="ev2050_020" id="1917020505" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That was a “warning"?
+      Ez volt a "figyelmeztetés"?
     </text>
   </sheet>
   <fonts>
