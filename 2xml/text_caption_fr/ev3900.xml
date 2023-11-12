@@ -2,40 +2,40 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3900_010" id="705447143" font="Range_FNT" layout="Range_LAY">
-      Talk to Tails
+      Beszélj Tails-el
     </text>
     <text name="ev3900_020" id="705447270" font="Range_FNT" layout="Range_LAY">
-      Find Tails
+      Találd meg Tails-t
     </text>
     <text name="ev3900_030" id="705447397" font="Range_FNT" layout="Range_LAY">
-      Get the Chaos Emerald
+      Szerezd meg a Káosz Smaragdot
     </text>
     <text name="ev3900_040" id="705447524" font="Range_FNT" layout="Range_LAY">
-      Collect Vault Keys from Portals
+      Gyűjts Széf Kulcsokat a Portálokból
     </text>
     <text name="ev3900_050" id="705447651" font="Range_FNT" layout="Range_LAY">
-      Head to the crater
+      Tarts a kráterbe
     </text>
     <text name="ev3900_060" id="705447778" font="Range_FNT" layout="Range_LAY">
-      Continue onward
+      Folytasd az utat
     </text>
     <text name="ev3900_070" id="705447905" font="Range_FNT" layout="Range_LAY">
-      Solve the puzzle
+      Oldd meg a rejtvényt
     </text>
     <text name="ev3900_080" id="705448032" font="Range_FNT" layout="Range_LAY">
-      Collect Tails' Memory Tokens
+      Gyűjts Tails Emlékjeleket
     </text>
     <text name="ev3900_090" id="705448159" font="Range_FNT" layout="Range_LAY">
-      Search for friends
+      Keresd a barátokat
     </text>
     <text name="ev3900_100" id="705463145" font="Range_FNT" layout="Range_LAY">
-      Solve the puzzle of the Ancients' gate
+      Oldd meg az Ősök kapujának a feladványát
     </text>
     <text name="ev3900_110" id="705463272">
-      Lower the drawbridge
+      Engedd le a felvonóhidat
     </text>
     <text name="ev3900_200" id="705479274" font="Range_FNT" layout="Range_LAY">
-      Obtain Rings
+      Szerezz Gyűrűket
     </text>
   </sheet>
   <fonts>

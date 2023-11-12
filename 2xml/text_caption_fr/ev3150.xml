@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3150_010" id="874637658" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They say this was the last of the defensive measures.
+      Azt mondják, ez volt az utolsó védelmi vonal.
     </text>
     <text name="ev3150_020" id="874637785" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Way to go. Your hero will be thrilled with all your hard work.
+      Szép volt! A hősötök el lesz ragadtatva a kemény munkátoktól.
     </text>
     <text name="ev3150_030" id="874637912" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      And I’m proud of you. Don’t forget that.
+      És én büszke vagyok rád. Ezt ne felejtsd el!
     </text>
     <text name="ev3150_040" id="874638039" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I won’t.
+      Nem fogom.
     </text>
   </sheet>
   <fonts>

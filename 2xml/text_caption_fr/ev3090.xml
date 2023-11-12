@@ -2,35 +2,35 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3090_010" id="194262613" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well… that’s it. The cannon is complete.
+      Nos... ennyi. Az ágyú elkészült.
     </text>
     <text name="ev3090_020" id="194262740" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev3090_030" id="194262867" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Did I get the wrong parts?
+      Rossz alkatrészeket hoztam?
     </text>
     <text name="ev3090_040" id="194262994" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      No. Their hero didn’t show. They’re worried something’s happened.
+      Nem. A hősük nem jelent meg. Aggódnak, hogy valami történt vele.
     </text>
     <text name="ev3090_050" id="194263121" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It’s like how I couldn’t handle it after Infinite attacked. 
-      One wrong turn and I fall apart…
+      Pont, mint én, amikor Infinite megtámadott, és nem tudtam felfogni.
+      Egy rossz mozdulat, és szétesem...
     </text>
     <text name="ev3090_060" id="194263248" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Whoa, what?
+      Várj, mi?
     </text>
     <text name="ev3090_070" id="194263375" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Listen to me. The others are counting on you. 
-      I’m here to help, so don’t give up, okay?
+      Figyelj! A többiek számítanak rád. 
+      Azért vagyok itt, hogy segítsek, úgyhogy ne add fel, oké?
     </text>
     <text name="ev3090_080" id="194263502" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev3090_090" id="194263629" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You’ve got me worried, Tails. You wanna talk?
+      Megijesztesz, Tails. Nem akarsz beszélni róla?
     </text>
     <text name="ev3090_100" id="194278615" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Not right now. Let’s just focus on finding the Emeralds.
+      Most nem. Koncentráljunk a Smaragdok megtalálására!
     </text>
     <text name="ev3090_110" id="194278742" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      All right.
+      Jól van.
     </text>
   </sheet>
   <fonts>

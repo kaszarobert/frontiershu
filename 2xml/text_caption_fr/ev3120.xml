@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3120_010" id="543777245" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I’ve lost count of how many times you’ve saved me from the hazards here.
+      Már nem is számolom, hányszor mentettél meg az itteni veszélyektől.
     </text>
     <text name="ev3120_020" id="543777372" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It is my function. I live to serve.
+      Ez az én feladatom. Azért élek, hogy szolgáljak.
     </text>
     <text name="ev3120_030" id="543777499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You’ve exceeded your function! I’m very impressed with you, Sage. No! I’m proud of you!
+      Túlteljesítetted a feladatodat! Nagyon le vagyok nyűgözve, Sage. Nem! Büszke vagyok rád!
     </text>
     <text name="ev3120_040" id="543777626" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Thank you fa… for your kind words.
+      Köszönöm, ap... a kedves szavakat.
     </text>
   </sheet>
   <fonts>

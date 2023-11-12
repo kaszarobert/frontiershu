@@ -2,32 +2,32 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3110_010" id="1865146206" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I have found a possible scenario for your escape.
+      Találtam egy lehetséges forgatókönyvet a menekülésedre.
     </text>
     <text name="ev3110_020" id="1865146333" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It’s about time! Report!
+      Már épp ideje volt! Jelentést!
     </text>
     <text name="ev3110_030" id="1865146460" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      After reviewing your entire campaign history, 
-      I have found the most optimal course of action is to… create an alliance with Sonic.
+      A teljes kampánytörténet áttekintése után
+      úgy találtam, hogy a legoptimálisabb lépés az, ha... szövetséget kötünk Sonic-kal.
     </text>
     <text name="ev3110_040" id="1865146587" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      WHAT!?
+      MI!?
     </text>
     <text name="ev3110_050" id="1865146714" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      B-But together you stopped the ARK! Overcame Neo Metal! You...!
+      De együtt megállítottátok az ARK-ot! Legyőztétek a Neo Metalt...
     </text>
     <text name="ev3110_060" id="1865146841" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I don’t want to hear it! Those alliances were purely out of desperation!
+      Hallani sem akarok róla! Azok a szövetségek pusztán kétségbeesésből jöttek létre.
     </text>
     <text name="ev3110_070" id="1865146968" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      But time is running out!
+      De az idő fogytán van!
     </text>
     <text name="ev3110_080" id="1865147095" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I don’t want to hear it! Find me another option!
+      Szó sem lehet róla! Találj nekem másik lehetőséget!
     </text>
     <text name="ev3110_090" id="1865147222" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Your tenacity is legendary. But I do wish you’d reconsider...
+      A kitartásod legendás. De szeretném, ha átgondolnád...
     </text>
   </sheet>
   <fonts>

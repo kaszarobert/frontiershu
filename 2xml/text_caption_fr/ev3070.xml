@@ -3,30 +3,30 @@
   <sheet name="fr" index="4">
     <text name="ev3070_010" id="2837000535" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
     <text name="ev3070_020" id="2837000662" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yo!
+      Heló!
     </text>
     <text name="ev3070_030" id="2837000789" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hey. This Koco is an apprentice to their top pilot.
-      They need to find the parts to complete their final weapons.
+      Hali. Ez a Koco a legjobb pilótájuk tanonca.
+      Meg kell találniuk az alkatrészeket a végső fegyvereikhez.
     </text>
     <text name="ev3070_040" id="2837000916" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I’m sure you’ve run into this scenario already. What did you do?
+      Biztosan találkoztál már ezzel a szituációval. Mit csináltál?
     </text>
     <text name="ev3070_050" id="2837001043" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well, I helped them out.
+      Hát, segítettem nekik.
     </text>
     <text name="ev3070_060" id="2837001170" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      But isn’t that… cruel? Their battle is long over. This feels dishonest.
+      De ez nem... kegyetlen? A csatájuk már rég véget ért. Tisztességtelennek tűnik.
     </text>
     <text name="ev3070_070" id="2837001297" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      We’re not fixing the problem they think they have, 
-      but we are bringing them peace.
+      Nem oldjuk meg nekik azt, amit problémájuknak hisznek,
+      hanem segítünk nekik békére lelni.
     </text>
     <text name="ev3070_080" id="2837001424" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well, when you put it that way...
+      Hát, ha úgy vesszük...
     </text>
     <text name="ev3070_090" id="2837001551" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Let's get to work!
+      Lássunk munkához!
     </text>
     <text name="ev3070_100" id="2837016537" font="Range_FNT_subtitle" layout="Range_LAY_subtitle" />
   </sheet>

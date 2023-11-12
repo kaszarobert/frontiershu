@@ -2,48 +2,48 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev3100_010" id="3186515167" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hey! Almost done here. Can you take our friend and find a couple more parts?
+      Szia! Majdnem kész vagyok. Elvinnéd a barátunkat és keresnél még pár alkatrészt?
     </text>
     <text name="ev3100_020" id="3186515294" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Can do!
+      Persze!
     </text>
     <text name="ev3100_030" id="3186515421" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yipe!
+      Jaj!
     </text>
     <text name="ev3100_040" id="3186515548" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Miles Prower. You have known Sonic most of your life.
+      Miles Prower. Életed nagy részében ismerted Sonic-ot.
     </text>
     <text name="ev3100_050" id="3186515675" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yeah. And?
+      Igen. És?
     </text>
     <text name="ev3100_060" id="3186515802" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Your imprisonment within Cyber Space. The defeat of the Ancients’ Titans. 
-      Do you trust how he is handling it? With your life?
+      A fogságod a Kibertérben. Az Ősök Titánjainak legyőzése.
+      Megbízol abban, hogy hogyan kezeli a helyzetet? Az életeddel?
     </text>
     <text name="ev3100_070" id="3186515929" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Of course! I’ll admit he isn’t perfect, but Sonic has overcome impossible odds over and over again. 
-      I know he’ll save us all.
+      Elismerem, nem tökéletes, de Sonic újra és újra tudott lehetetlen esélyekkel szemben győzni.
+      Tudom, hogy mindannyiunkat meg fog menteni.
     </text>
     <text name="ev3100_080" id="3186516056" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      So you’re saying you have faith in him?
+      Tehát azt mondod, hogy hiszel benne?
     </text>
     <text name="ev3100_090" id="3186516183" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It’s not a matter of faith. I’ve got a lifetime of data to back up my observations.
+      Ez nem hit kérdése. Egy életre szóló adatokkal tudom alátámasztani a megfigyeléseimet.
     </text>
     <text name="ev3100_100" id="3186531169" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Your loyalty is founded on empirical data. I can appreciate that.
+      A hűséged a tapasztalat során szerzett adatokon alapul. Ezt értékelem.
     </text>
     <text name="ev3100_110" id="3186531296" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      The feelings he inspires in you and the others… is that a facet of being alive?
+      Azok érzések, amiket ő kelt benned és másokban... ez az élet egyik aspektusa?
     </text>
     <text name="ev3100_120" id="3186531423" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      And yet all your love and loyalty will amount to nothing. It cannot be prevented.
+      És mégis, minden szeretet és hűséged semmit sem ér. Nem lehet megakadályozni.
     </text>
     <text name="ev3100_130" id="3186531550" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      What are you talking about?
+      Miről beszélsz?
     </text>
     <text name="ev3100_140" id="3186531677" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Perhaps it is kinder if you don’t know...
+      Talán jobb, ha nem tudod...
     </text>
   </sheet>
   <fonts>
