@@ -2,24 +2,24 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev5030_010" id="2363010649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Is that it?
+      Ennyi volt?
     </text>
     <text name="ev5030_020" id="2363010776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      All we did was chase it out of its shell. It’s retreating into space to regain its true form. 
-      Even Super Sonic won’t be able to stop it. I know what I must do. I must… leave you.
+      Most csak kikergettük a burkából. Visszavonul az űrbe, hogy visszanyerje igazi formáját.
+      Még Super Sonic sem lesz képes megállítani. Tudom, mit kell tennem. El kell téged... hagyjalak.
       
     </text>
     <text name="ev5030_030" id="2363010903" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I understand. Go fulfill your... function.
+      Megértem. Menj, teljesítsd a... feladatodat.
     </text>
     <text name="ev5030_040" id="2363011030" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hurry! Before it regains its full strength!
+      Siessünk! Nemsokára visszanyeri a teljes erejét!
     </text>
     <text name="ev5030_050" id="2363011157" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Ladies first!
+      Hölgyeké az elsőbbség!
     </text>
     <text name="ev5030_060" id="2363011284" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Be careful… dear daughter.
+      Légy óvatos, drága lányom.
     </text>
   </sheet>
   <fonts>

@@ -2,22 +2,22 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev5900_010" id="3535916005">
-      Find Sage
+      Beszélj Sage-el
     </text>
     <text name="ev5900_020" id="3535916132">
-      Collect Vault Keys from Portals
+      Gyűjts Széf Kulcsokat a Portálokból
     </text>
     <text name="ev5900_030" id="3535916259">
-      Create a bridge to continue on
+      Hozz létre egy hidat a folytatáshoz
     </text>
     <text name="ev5900_040" id="3535916386">
-      Open the Ancients' gate to continue
+      Nyisd ki az Ősök kapuját a folytatáshoz
     </text>
     <text name="ev5900_050" id="3535916513">
-      Get the Chaos Emerald
+      Szerezd meg a Káosz Smaragdot
     </text>
     <text name="ev5900_080" id="3535916894" font="Range_FNT" layout="Range_LAY">
-      Collect Sage's Memory Tokens
+      Gyűjts Sage Emlékjeleket
     </text>
   </sheet>
   <fonts>

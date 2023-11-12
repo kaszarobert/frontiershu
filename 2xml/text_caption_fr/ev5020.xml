@@ -2,28 +2,28 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev5020_010" id="3684379610" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      One more... I gotta hurry up!
+      Már csak 1 van hátra. Sietnem kell!
     </text>
     <text name="ev5020_020" id="3684379737" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Sonic!
     </text>
     <text name="ev5020_030" id="3684379864" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Father…
+      Apám…
     </text>
     <text name="ev5020_040" id="3684379991" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I know!
+      Tudom!
     </text>
     <text name="ev5020_050" id="3684380118" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You're not fast enough so I found it for you.
+      Nem vagy elég gyors, ezért megtaláltam neked.
     </text>
     <text name="ev5020_060" id="3684380245" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Go ahead and beat that giant!
+      Gyerünk, győzd le azt az óriást!
     </text>
     <text name="ev5020_070" id="3684380372" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Don't you dare lose it!
+      El ne merd veszíteni!
     </text>
     <text name="ev5020_080" id="3684380499" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Now why would I want to disappoint you?
+      Miért akarnék csalódást okozni neked?
     </text>
   </sheet>
   <fonts>

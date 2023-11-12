@@ -2,22 +2,22 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev4900_010" id="4268165222" font="Range_FNT" layout="Range_LAY">
-      Shut down 6 towers
+      Kapcsold le a 6 tornyot
     </text>
     <text name="ev4900_020" id="4268165349" font="Range_FNT" layout="Range_LAY">
-      Shut down 5 towers
+      Kapcsold le az 5 tornyot
     </text>
     <text name="ev4900_030" id="4268165476" font="Range_FNT" layout="Range_LAY">
-      Shut down 4 towers
+      Kapcsold le a 4 tornyot
     </text>
     <text name="ev4900_040" id="4268165603" font="Range_FNT" layout="Range_LAY">
-      Shut down 3 towers
+      Kapcsold le a 3 tornyot
     </text>
     <text name="ev4900_050" id="4268165730" font="Range_FNT" layout="Range_LAY">
-      Shut down 2 towers
+      Kapcsold le a 2 tornyot
     </text>
     <text name="ev4900_060" id="4268165857" font="Range_FNT" layout="Range_LAY">
-      Shut down the last tower
+      Kapcsold le az utolsó tornyot
     </text>
   </sheet>
   <fonts>
