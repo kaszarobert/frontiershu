@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ev9010_010" id="2076751703" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I appear to be in a digital dimension. I’ve employed similar constructs in my own systems, but this is markedly more advanced.
+      Úgy látom, egy digitális dimenzióban vagyok. A saját rendszereimben is alkalmaztam már hasonló konstrukciókat, de ez jóval fejlettebb.
     </text>
     <text name="ev9010_020" id="2076751830" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Note to self: don’t admit that to anyone.
+      Megjegyzés: ezt ne ismerd be senkinek.
     </text>
     <text name="ev9010_030" id="2076751957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      The amount of data stored here defies quantification.
+      Az itt tárolt adatok mennyisége számszerűsíthetetlen.
     </text>
     <text name="ev9010_040" id="2076752084" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      But it won’t stop me from trying!
+      De ettől még meg fogom próbálni!
     </text>
   </sheet>
   <fonts>

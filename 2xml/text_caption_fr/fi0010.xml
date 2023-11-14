@@ -2,30 +2,30 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="fi0010_010" id="2847150162" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh, hey, Sonic!
-      You come here to fish, too?
+      Ó, szia, Sonic!
+      Te is horgászni jöttél ide?
     </text>
     <text name="fi0010_020" id="2847150289" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Big!? What are you doing here? HOW did you get here? What even IS here!?
+      Big!? Mit keresel itt? HOGY kerültél ide? MI ez a hely!?
     </text>
     <text name="fi0010_030" id="2847150416" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I dunno. I was looking for fishing spots and wound up here.
+      Nem t'om. Horgászhelyeket kerestem, és itt kötöttem ki.
     </text>
     <text name="fi0010_040" id="2847150543" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      So now I'm fishin'.
+      Úgyhogy horgászom.
     </text>
     <text name="fi0010_050" id="2847150670" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Of course you are.
+      Hát, persze.
     </text>
     <text name="fi0010_060" id="2847150797" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Would you like to try? I'll let you borrow a rod.
+      Szeretnéd megpróbálni? Kölcsönadok egy botot.
     </text>
     <text name="fi0010_070" id="2847150924" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I guess it wouldn't hurt to de-tense for a second.
+      Azt hiszem, nem árthat egy kicsit lazítás.
     </text>
     <text name="fi0010_080" id="2847151051" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Do you know how to fish?
-      I'll teach you if you want!
+      Tudsz horgászni?
+      Megtanítalak, ha akarod!
     </text>
   </sheet>
   <fonts>

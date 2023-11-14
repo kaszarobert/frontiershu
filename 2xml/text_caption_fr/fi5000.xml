@@ -2,238 +2,238 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="fi5000_010" id="507273038" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You hooked <var name="fish_name" />!
+      Kifogtál <var name="fish_name" />!
     </text>
     <text name="fish000" id="1487008440" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a gourami
+      egy gurámit
     </text>
     <text name="fish001" id="1487008441" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a loach
+      egy kövi csíkot
     </text>
     <text name="fish002" id="1487008442" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a medaka
+      egy medakát
     </text>
     <text name="fish003" id="1487008443" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a crayfish
+      egy édesvízi rákot
     </text>
     <text name="fish004" id="1487008444" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a tadpole
+      egy ebihalat
     </text>
     <text name="fish005" id="1487008445" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a clownfish
+      egy bohóchalat
     </text>
     <text name="fish006" id="1487008446" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a squid
+      egy tintahalat
     </text>
     <text name="fish007" id="1487008447" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a seahorse
+      egy csikóhalat
     </text>
     <text name="fish008" id="1487008448" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a carp
+      egy pontyot
     </text>
     <text name="fish009" id="1487008449" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a snapping turtle
+      egy aligátorteknőst
     </text>
     <text name="fish010" id="1487008567" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a salmon
+      egy lazacot
     </text>
     <text name="fish011" id="1487008568" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a flounder
+      egy lepényhalat
     </text>
     <text name="fish012" id="1487008569" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an anglerfish
+      egy horgászhalat
     </text>
     <text name="fish013" id="1487008570" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an octopus
+      egy polipot
     </text>
     <text name="fish014" id="1487008571" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a pufferfish
+      egy gömbhalat
     </text>
     <text name="fish015" id="1487008572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a crab
+      egy rákot
     </text>
     <text name="fish016" id="1487008573" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an alligator
+      egy aligátort
     </text>
     <text name="fish017" id="1487008574" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a black bass
+      egy fekete sügért
     </text>
     <text name="fish018" id="1487008575" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a nishiki koi
+      egy nishiki koit
     </text>
     <text name="fish019" id="1487008576" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a coelacanth
+      egy bojtosúszós maradványhalat
     </text>
     <text name="fish020" id="1487008694" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an oarfish
+      egy szíjhalat
     </text>
     <text name="fish021" id="1487008695" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a tuna
+      egy tonhalat
     </text>
     <text name="fish022" id="1487008696" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a sunfish
+      egy naphal
     </text>
     <text name="fish023" id="1487008697" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a marlin
+      egy kék marlint
     </text>
     <text name="fish024" id="1487008698" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a yellow spring
+      egy sárga rugót
     </text>
     <text name="fish025" id="1487008699" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a red spring
+      egy piros rugót
     </text>
     <text name="fish026" id="1487008700" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a tin can
+      egy konzervdobozt
     </text>
     <text name="fish027" id="1487008701" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an Item Box
+      egy Tárolót
     </text>
     <text name="fish028" id="1487008702" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a Star Post
+      egy Csillagoszlopot
     </text>
     <text name="fish029" id="1487008703" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a Goal Plate
+      egy Cél Táblát
     </text>
     <text name="fish030" id="1487008821" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a Chopper
+      egy Robothalat
     </text>
     <text name="fish031" id="1487008822" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a twig
+      egy ágat
     </text>
     <text name="fish032" id="1487008823" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an acorn
+      egy makkot
     </text>
     <text name="fish033" id="1487008824" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a Ring
+      egy Gyűrűt
     </text>
     <text name="fish034" id="1487008825" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a tire
+      egy gumit
     </text>
     <text name="fish035" id="1487008826" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a barracuda
+      egy barrakudát
     </text>
     <text name="fish036" id="1487008827" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a stingray
+      egy ráját
     </text>
     <text name="fish037" id="1487008828" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a starfish
+      egy tengeri csillagot
     </text>
     <text name="fish038" id="1487008829" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a poison dart frog
+      egy nyílméregbékát
     </text>
     <text name="fish039" id="1487008830" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a goldfish
+      egy aranyhalat
     </text>
     <text name="fish040" id="1487008948" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a flying fish
+      egy repülőhalat
     </text>
     <text name="fish041" id="1487008949" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a giant isopod
+      egy óriás ászkarákot
     </text>
     <text name="fish042" id="1487008950" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a hammerhead shark
+      egy kalapácsfejű cápát
     </text>
     <text name="fish043" id="1487008951" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      an ancient tablet
+      egy ősi táblát
     </text>
     <text name="fish044" id="1487008952" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a moray eel
+      egy murénát
     </text>
     <text name="fish045" id="1487008953" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a polka-dot hammerhead shark
+      egy pöttyös kalapácsfejű cápát
     </text>
     <text name="fish046" id="1487008954" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a red can
+      egy piros konzervdobozt
     </text>
     <text name="fish047" id="1487008955" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a silver acorn
+      egy ezüst makkot
     </text>
     <text name="fish048" id="1487008956" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a small Chopper
+      egy kis Robothalat
     </text>
     <text name="fish049" id="1487008957" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a platinum-golden fish
+      egy platina aranyhalat
     </text>
     <text name="fish050" id="1487009075" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a blue-ringed octopus
+      egy kékgyűrűs polipot
     </text>
     <text name="fish051" id="1487009076" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a golden coelacanth
+      egy arany bojtosúszójúhalat
     </text>
     <text name="fish052" id="1487009077" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a king salmon
+      egy királylazacot
     </text>
     <text name="fish053" id="1487009078" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a black starfish
+      egy fekete tengeri csillagot
     </text>
     <text name="fish054" id="1487009079" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a flashy anglerfish
+      egy csillogó ördöghalat
     </text>
     <text name="fish055" id="1487009080" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a red giant isopod
+      egy óriás vörös ászkarákot
     </text>
     <text name="fish056" id="1487009081" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      a red stingray
+      egy vörös tüskésráját
     </text>
     <text name="fish057" id="1487009082">
-      a striped sunfish
+      egy csíkos naphalat
     </text>
     <text name="fish058" id="1487009083">
-      a big rainbow colored frog
+      egy nagy szivárványszínű békát
     </text>
     <text name="fish085" id="1487009461">
-      a Red Seed of Power
+      egy Vörös Erő Magot
     </text>
     <text name="fish086" id="1487009462">
-      a Blue Seed of Defense
+      egy Kék Védelem Magot
     </text>
     <text name="fish090" id="1487009583">
-      a Gold Card
+      egy Arany Kártyát
     </text>
     <text name="fish091" id="1487009584">
-      a Gold Card
+      egy Arany Kártyát
     </text>
     <text name="fish092" id="1487009585">
-      a Gold Card
+      egy Arany Kártyát
     </text>
     <text name="fish093" id="1487009586">
-      a Gold Card
+      egy Arany Kártyát
     </text>
     <text name="fish094" id="1487009587">
-      3 Gold Cards
+      3 Arany Kártyát
     </text>
     <text name="fish095" id="1487009588">
-      3 Gold Cards
+      3 Arany Kártyát
     </text>
     <text name="fish096" id="1487009589">
-      3 Gold Cards
+      3 Arany Kártyát
     </text>
     <text name="fish097" id="1487009590">
-      3 Gold Cards
+      3 Arany Kártyát
     </text>
     <text name="fish098" id="1487009591">
-      Elder Koco's scroll
+      Vén Koco tekercse
     </text>
     <text name="fish099" id="1487009592">
-      Elder Koco's scroll
+      Vén Koco tekercse
     </text>
     <text name="fish100" id="1487024569" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Elder Koco's scroll
+      Vén Koco tekercse
     </text>
     <text name="fish101" id="1487024570" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Elder Koco's scroll
+      Vén Koco tekercse
     </text>
     <text name="fish102" id="1487024571" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hermit Koco's scroll
+      Remete Koco tekercse
     </text>
     <text name="fish103" id="1487024572" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hermit Koco's scroll
+      Remete Koco tekercse
     </text>
     <text name="fish104" id="1487024573" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hermit Koco's scroll
+      Remete Koco tekercse
     </text>
     <text name="fish105" id="1487024574" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hermit Koco's scroll
+      Remete Koco tekercse
     </text>
   </sheet>
   <fonts>
