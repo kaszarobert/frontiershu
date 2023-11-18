@@ -2,24 +2,24 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="sb1090_010" id="3235200565" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh hey, you show up everywhere. 
+      Ó, hé, te mindenhol felbukkansz.
     </text>
     <text name="sb1090_020" id="3235200692" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Y'know, I... I don't think we were ever properly introduced. I'm Sonic...
+      Tudod, én... Nem hiszem, hogy valaha is rendesen bemutatkoztunk. Sonic vagyok...
     </text>
     <text name="sb1090_030" id="3235200819" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I know who you are. Your age, your biometrics, your weaknesses. You live for speed, are short-tempered and short-sighted.
+      Tudom, hogy ki vagy. A korodat, a biometrikus adataidat, a gyengeségeidet. A sebességért élsz, lobbanékony vagy és rövidlátó.
     </text>
     <text name="sb1090_040" id="3235200946" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh... so you're a fan. 
-      But I don't know anything about you, Miss...?
+      Ó... szóval rajongó vagy. 
+      De én nem tudok semmit rólad, Miss...?
     </text>
     <text name="sb1090_050" id="3235201073" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I will not share personal information with an enemy!
+      Nem fogok személyes információkat megosztani egy ellenséggel.
     </text>
     <text name="sb1090_060" id="3235201200" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Why are we enemies!?
-      Weird kid. I don't really get a bad vibe off of her, though.
+      Miért vagyunk ellenségek?!
+      Fura egy kölyök. Bár ránézve nem kelt rossz benyomást.
     </text>
   </sheet>
   <fonts>

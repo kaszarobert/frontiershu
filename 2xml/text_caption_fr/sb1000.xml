@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="sb1000_010" id="2242619326" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh wow! I don't think we've seen any ruins quite like this on our adventures.
+      Hűha! Nem hiszem, hogy láttunk még ilyen romokat a kalandjaink során.
     </text>
     <text name="sb1000_020" id="2242619453" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yeah! They're ancient, but also look kinda advanced? Wait, is "retro-sci-fi" a thing?
+      Igaz. Ősrégi, de mégis fejlett. Van olyan, hogy "retro sci-fi"?
     </text>
     <text name="sb1000_030" id="2242619580" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      How were the tower and the floating giant stone built?
+      Hogy épült az a torony és az az óriási lebegő kő?
     </text>
     <text name="sb1000_040" id="2242619707" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Tails is the genius among us. Let's find him and see if he can figure things out.
+      Tails a zseni köztünk. Keressük meg, hátha meg tudja fejteni!
     </text>
     <text name="sb1000_050" id="2242619834" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Right. I'm sure he'll hang on until I find him.
+      Rendben. Biztosra veszem, hogy kitart, amíg megtalálom.
     </text>
   </sheet>
   <fonts>
