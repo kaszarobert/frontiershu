@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="qu3510_010" id="3385331029" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Woo! That did the trick.
+      Hú! Ez bevált.
     </text>
     <text name="qu3510_020" id="3385331156" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Yup! It revealed a subterranean pathway!
+      Igen! Feltárt egy földalatti járatot.
     </text>
     <text name="qu3510_030" id="3385331283" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Be careful, though. Whatever took out that super badnik might still be lurking around.
+      De légy óvatos! Bármi is ütötte ki azt a szuper badniket, lehet, hogy még mindig itt ólálkodik.
     </text>
     <text name="qu3510_040" id="3385331410" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I hear that. Thanks, buddy! I'll see you later.
+      Hallottam. Kösz, haver! Később találkozunk.
     </text>
   </sheet>
   <fonts>

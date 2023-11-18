@@ -2,39 +2,39 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="qu2600_010" id="833848408" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Sonic! Check these out.
+      Sonic! Nézd meg ezeket!
     </text>
     <text name="qu2600_020" id="833848535" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I don't think this ancient machinery was active before. Any idea what changed?
+      Nem hiszem, hogy ez az Ős gépezet korábban aktív volt. Van ötleted, mi változott?
     </text>
     <text name="qu2600_030" id="833848662" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Something similar happened on the last island. Let's just call it a little "divine intervention."
+      Valami hasonló történt az előző szigeten is. Nevezzük csak egy kis "isteni beavatkozásnak".
     </text>
     <text name="qu2600_040" id="833848789" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      If I can solve the lock's code, it should open the way to that flying Titan.
+      Ha meg tudom fejteni a zár kódját, az megnyithatja az utat a repülő Titánhoz.
     </text>
     <text name="qu2600_050" id="833848916" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Wait, Sonic. You're still missing a Chaos Emerald, aren't you? That thing will tear you to shreds.
+      Várj, Sonic! Hiszen még hiányzik egy Káosz Smaragd, nem? Az most széttépne téged.
     </text>
     <text name="qu2600_060" id="833849043" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      The last Titan was holding the final emerald. I'm willing to bet it's the same deal here.
+      Az utolsó Titán kezében volt az utolsó Smaragd. Lefogadom, hogy itt is ugyanez a helyzet.
     </text>
     <text name="qu2600_070" id="833849170" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      First, though, I need to play this crane game. Lemme see... the stones and the ports seem to have corresponding colors...
+      De előbb játszanom kell ezt a darus játékot. Lássuk csak... a kövek és a helyek színekkel vannak jelölve...
     </text>
     <text name="qu2610_010" id="3807446743" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Huh. You did it. Nice work.
+      Hát. Megcsináltad. Szép munka!
     </text>
     <text name="qu2610_020" id="3807446870" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Was there ever any doubt?
-      Ready to go face impossible odds?
+      Volt is valaha kétség?
+      Készen állsz, hogy szembenézz a lehetetlennel?
     </text>
     <text name="qu2610_030" id="3807446997" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Ha! We've faced worse.
-      Here we go! Try to keep up!
+      Ha! Volt már rosszabb is.
+      Itt is vagyunk! Próbálj meg nem lemaradni!
     </text>
     <text name="qu2610_040" id="3807447124" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Whoa, hey! That's my line!
+      Hé, hé! Ez az én szövegem!
     </text>
   </sheet>
   <fonts>

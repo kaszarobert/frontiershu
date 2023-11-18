@@ -2,25 +2,25 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="qu2500_010" id="1143981911" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Can you see that seal in the center of the pond? If we could pull it out, we could drain the water.
+      Látod azt a dugót a tó közepén? Ha ki tudnánk húzni, le tudnánk engedni a vizet.
     </text>
     <text name="qu2500_020" id="1143982038" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      The problem is I'm still ghost-like and you're useless underwater.
+      Az a baj, hogy én még mindig szellemszerű vagyok, te meg használhatatlan vagy víz alatt.
     </text>
     <text name="qu2500_030" id="1143982165" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Wow, thanks for the concern. Anyway, if I can jostle the device holding the chain, maybe I can get it to reel it in?
+      Hű, kösz az aggodalmat! Mindenesetre, ha meg tudom rázni a lökni a láncot tartó eszközt, talán rávehetjük, hogy visszatekerje.
     </text>
     <text name="qu2500_040" id="1143982292" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Worth a shot. Just don't slip and fall. I can't haul you out.
+      Próbáljuk meg! Csak nehogy elcsússz és beess! Nem tudlak kihúzni.
     </text>
     <text name="qu2510_010" id="4117580246" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Wait... was draining the oasis the best idea...?
+      Várj! Biztos jó ötlet volt lecsapolni az oázist?
     </text>
     <text name="qu2510_020" id="4117580373" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well hey, you've revealed the way forward. That's what's important.
+      Hát, lényeg, hogy felfedted az utat előre. Ez a fontos.
     </text>
     <text name="qu2510_030" id="4117580500" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Says you. You can't feel this heat. Oh well, race you to the next Emerald!
+      Mondod te. Nem érzed ezt a hőséget. Nos, verseny a következő Smaragdig!
     </text>
   </sheet>
   <fonts>

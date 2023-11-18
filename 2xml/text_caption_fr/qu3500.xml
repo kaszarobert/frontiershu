@@ -2,27 +2,27 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="qu3500_010" id="411732694" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Look! It's an Assault-model Death Egg Robot!
-      It looks pretty entrenched. 
+      Nézd! Egy támadó-modellű Haláltojás robot!
+      Ránézésre nem nagyon megy már sehova.
     </text>
     <text name="qu3500_020" id="411732821" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I'll take a look around.
-      Let me know if you find anything!
+      Körülnézek.
+      Szólj, ha találsz valamit!
     </text>
     <text name="qu3500_030" id="411732948" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You don't see something like this every day.
+      Ilyet nem látni minden nap.
     </text>
     <text name="qu3500_040" id="411733075" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      These things are tough to take down, even for me.
-      I wonder what took it out? Maybe that ghost-girl?
+      Ezeket a dolgokat nehéz leszedni, még nekem is.
+      Kíváncsi vagyok, mi ütötte ki? Talán az a szellemlány?
     </text>
     <text name="qu3500_050" id="411733202" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hey, Sonic! I found a remote control panel.
-      It's still online!
+      Hé, Sonic! Találtam egy távirányító panelt.
+      Még mindig működik.
     </text>
     <text name="qu3500_060" id="411733329" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Let's see what Eggman was trying to do with this thing.
-      If it goes bad, you can shut it off.
+      Lássuk, mit akart Eggman ezzel a dologgal csinálni!
+      Ha baj lesz belőle, akkor kikapcsolhatod.
     </text>
   </sheet>
   <fonts>
