@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="io5010_010_AM" id="1893048987" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It's not for me? How rude.
+      Nem nekem szól? Pimaszság.
     </text>
     <text name="io5010_010_KN" id="1893050258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      What is this thing? I can't seem to use it.
+      Mi ez a valami? Nem tudom használni.
     </text>
     <text name="io5010_010_SN" id="1893051274" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I should have someone else take a look.
+      Meg kellene nézetnem valakivel.
     </text>
     <text name="io5010_010_TA" id="1893051388" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hmm, I can't activate it...
+      Hmm, nem tudom aktiválni...
     </text>
   </sheet>
   <fonts>

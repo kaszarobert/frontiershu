@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="fi5500_010" id="3251572819" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Move the target
+      Célpont mozgatása
     </text>
     <text name="fi5500_020" id="3251572946" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Cast the line
+      Horog bedobása
     </text>
     <text name="fi5500_030" id="3251573073" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Reel it in
+      Feltekerés
     </text>
     <text name="fi5500_040" id="3251573200" font="Range_FNT_btnguide" layout="Range_LAY_btnguide">
-      Hook the fish
+      Hal kihúzása
     </text>
   </sheet>
   <fonts>

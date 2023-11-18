@@ -2,70 +2,70 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ko1500_010" id="1524695256" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      At last we meet, Sonic the Hedgehog.
+      Végre találkozunk, Sonic, a sündisznó!
     </text>
     <text name="ko1500_020" id="1524695383" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I don't think we've met?
+      Találkoztunk volna már?
     </text>
     <text name="ko1500_030" id="1524695510" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Just like the Koco, you have touched the Digital Dream. Unlike most, I know how to listen to it and hear some of its secrets.
+      Ahogy a Koco-k, úgy te is megérintetted a Digitális Álmot. A legtöbbekkel ellentétben én tudom, hogy kell meghallgatni és meghallani néhány titkát.
     </text>
     <text name="ko1500_040" id="1524695637" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      To hear it properly, though, I must keep to myself. Call me a hermit if you like. It is the path I've chosen.
+      Ahhoz azonban, hogy rendesen halljam, magamban kell tartanom. Hívj Remetének, ha akarsz. Ezt az utat választottam.
     </text>
     <text name="ko1500_041" id="1524695638" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Have you found any Seeds in your travels?
+      Találtál már Magokat az utazásaid során?
     </text>
     <text name="ko1500_042" id="1524695639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You mean these things that the robots sometimes drop?
+      Azokra a dolgokra gondolsz, amiket a robotok néha elejtenek?
     </text>
     <text name="ko1500_043" id="1524695640" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Indeed! I will unlock their power and pass it on to you.
+      Igenis! Feloldom az erejüket, és átadom neked.
     </text>
     <text name="ko1500_044" id="1524695641" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Bring me more Seeds and I will give you more power in return.
+      Hozz nekem több Magot, és én cserébe több erőt adok neked.
     </text>
     <text name="ko1500_045" id="1524695642" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Seeds of Power will make you strike harder.
-      Seeds of Defense will make you sturdier.
+      Az Erő Magjai erősebbé teszi a csapásaid.
+      A Védelem Magjai ellenállóbbá tesznek.
     </text>
     <text name="ko1500_046" id="1524695643" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      That's pretty cool. And so you are, Hermit!
+      Ez nagyon király. És te is az vagy, Remete!
     </text>
     <text name="ko1500_047" id="1524695644" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh ho ho! It all comes from listening to the whispers of the Digital Dream.
+      Oh ho ho! Mindez a Digitális Álom suttogásainak hallgatásából ered.
     </text>
     <text name="ko1500_048" id="1524695645" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Hmm?
     </text>
     <text name="ko1500_050" id="1524695764" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It seems you've run into that lazy old sibling of mine. They've awakened a great power within you. Even more lies untapped.
+      Úgy tűnik, hogy összefutottál a lusta öreg testvéremmel. Nagy erőt ébresztettek benned. Még több rejlik kihasználatlanul.
     </text>
     <text name="ko1500_060" id="1524695891" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      But I can do a better job of balancing that energy. What do you say?
+      De én jobban ki tudom egyensúlyozni ezt az energiát. Mit szólsz?
     </text>
     <text name="ko1500_070" id="1524696018" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I'll take all the help I can get!
+      Minden segítséget elfogadok!
     </text>
     <text name="ko1500_080" id="1524696145" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I have waited and listened for so long...
-      What would you have me do?
+      Olyan sokáig vártam és hallgattam...
+      Mit szeretnél, mit tegyek?
     </text>
     <text name="ko1500_090" id="1524696272" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Hmm...
-      You have wells of untapped potential, but I cannot reach them. 
+      Kiaknázatlan lehetőségek kútjai vannak benned, de én nem tudom elérni őket.
     </text>
     <text name="ko1500_100" id="1524711258" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Dang. Know anybody who can?
+      A fenébe! Ismersz valakit, aki tud?
     </text>
     <text name="ko1500_110" id="1524711385" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Eh... unfortunately. Seek out my sibling, the Elder Koco.
+      Hát... sajnos. Keresd meg a testvéremet, a Vén Koco-t.
     </text>
     <text name="ko1500_120" id="1524711512" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They can likely unlock your inner strength. 
+      Valószínűleg fel tudja szabadítani a belső erődet.
     </text>
     <text name="ko1500_130" id="1524711639" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Then come back and see me so I can be sure they did it right!
+      Aztán gyere vissza hozzám, hogy megbizonyosodjak róla, hogy jól csinálta-e!
     </text>
   </sheet>
   <fonts>

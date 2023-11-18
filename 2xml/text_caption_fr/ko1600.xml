@@ -5,30 +5,30 @@
       Zzz…
     </text>
     <text name="ko1600_020" id="1214561880" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hrmph. T'was a good sleep.
+      Hmmm. Jót aludtam!
     </text>
     <text name="ko1600_030" id="1214562007" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh! You've returned.
-      Do you need my insight once more?
+      Ó! Visszatértél.
+      Szükséged van újra az ismereteimre?
     </text>
     <text name="ko1600_031" id="1214562008" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh? That appearance of yours...
+      Ó? A megjelenésed...
     </text>
     <text name="ko1600_032" id="1214562009" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well met, traveler.
-      Do you need my insight once more?
+      Örvendek, utazó.
+      Szükséged van újra az éleslátásomra?
     </text>
     <text name="ko1600_040" id="1214562134" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Allow me to unlock the power of the seeds you've gathered.
+      Engedd meg, hogy felszabadítsam az összegyűjtött Magok erejét.
     </text>
     <text name="ko1600_041" id="1214562135" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Unfortunately, I cannot do any more for you. I return to the dream once more.
+      Sajnos, ennél többet nem tehetek érted. Ismét visszatérek az álomba.
     </text>
     <text name="ko1600_045" id="1214562139" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Your power has been fully awakened. I look forward to seeing what you can do!
+      Az erődet teljesen felébresztettem. Alig várom, hogy lássam, mire vagy képes!
     </text>
     <text name="ko1600_050" id="1214562261" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      What else may I do for you?
+      Mit tehetek még érted?
     </text>
   </sheet>
   <fonts>

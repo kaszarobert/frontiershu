@@ -2,32 +2,32 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="ko1100_010" id="2765229268" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hello again, Sonic.
+      Üdv újra, Sonic!
     </text>
     <text name="ko1100_011" id="2765229269" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well well, a traveler.
+      Nocsak, nocsak, egy utazó.
     </text>
     <text name="ko1100_020" id="2765229395" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Please find as many Koco as you can and bring them home to me.
+      Kérlek, találj annyi Koco-t, amennyit csak tudsz, és hozd haza őket nekem.
     </text>
     <text name="ko1100_030" id="2765229522" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      They can be a little shy and skittish, so look everywhere!
+      Kicsit félénkek és ódzkodóak tudnak lenni, ezért mindenhol nézz körül!
     </text>
     <text name="ko1100_040" id="2765229649" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Welcome back, my dear Koco! 
-      Thank you, Sonic. Shall I grant you more power?
+      Isten hozott, kedves Koco-im! 
+      Köszönöm, Sonic. Adjak neked még több erőt?
     </text>
     <text name="ko1100_041" id="2765229650" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Welcome back, my dear Koco! 
-      Thank you, traveler. Shall I grant you more power?
+      Isten hozott, kedves Koco-im! 
+      Köszönöm, utazó. Adjak neked még több erőt?
     </text>
     <text name="ko1100_050" id="2765229776" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I've done all I can, and still you bring more Koco home?
-      You're a true hero, Sonic, and you have my deepest thanks.
+      Mindent megtettem, amit tudtam, és még mindig több Koco-t hozol haza?
+      Igazi hős vagy, Sonic, és a legmélyebb köszönetemet fejezem ki neked.
     </text>
     <text name="ko1100_051" id="2765229777" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I've done all I can, and still you bring more Koco home?
-      You're a true hero and you have my deepest thanks.
+      Mindent megtettem, amit tudtam, és még mindig több Koco-t hozol haza?
+      Igazi hős vagy, és a legmélyebb hálámat adom neked.
     </text>
   </sheet>
   <fonts>

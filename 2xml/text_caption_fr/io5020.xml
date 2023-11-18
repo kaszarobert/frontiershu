@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="io5020_010_AM" id="3386678940" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Nothing.
+      Semmi.
     </text>
     <text name="io5020_010_KN" id="3386680211" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Huh, not even a peep.
+      Hm, egy pittyenés sem.
     </text>
     <text name="io5020_010_SN" id="3386681227" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      No response. Hellooo?
+      Nincs válasz. Hahó?
     </text>
     <text name="io5020_010_TA" id="3386681341" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      There's no response... What's going on?
+      Nincs válasz... Mi történik?
     </text>
   </sheet>
   <fonts>

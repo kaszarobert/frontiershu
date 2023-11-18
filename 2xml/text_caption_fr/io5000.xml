@@ -2,16 +2,16 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="io5000_010_AM" id="399419034" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Nothing's inside.
+      Nincs benne semmi.
     </text>
     <text name="io5000_010_KN" id="399420305" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Darn! It's empty.
+      A csudába! Üres.
     </text>
     <text name="io5000_010_SN" id="399421321" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Hmm, looks broken.
+      Hmm, talán elromlott.
     </text>
     <text name="io5000_010_TA" id="399421435" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Seems it stopped working a long time ago.
+      Úgy tűnik, már régóta nem működik.
     </text>
   </sheet>
   <fonts>
