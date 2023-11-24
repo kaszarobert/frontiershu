@@ -8,7 +8,7 @@
       Nem
     </text>
     <text name="ko9000_006" id="1512336210" font="Range_FNT" layout="Range_LAY">
-      Újra részt venni a próbán
+      A próba újbóli részvétele
     </text>
     <text name="ko9000_010" id="1512336331" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Szeretnél részt venni a próbámon?
@@ -104,7 +104,7 @@
       Harci útmutatás - Végső
     </text>
     <text name="ko9000_186" id="1512353355" font="Range_FNT" layout="Range_LAY">
-      Harci útmutatás
+      Harci útmutatás kérése
     </text>
     <text name="ko9000_190" id="1512353476" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
       Amíg A VÉG továbbra is hatalmas mennyiségű energiát kap az álholdról, addig nem fog sebesülni. Valahogy biztosan el lehet vágni a kábelt.
