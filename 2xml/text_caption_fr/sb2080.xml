@@ -2,20 +2,20 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="sb2080_010" id="3824320309" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      What do you think of the weird spires being used to contain the Chaos Emeralds?
+      Mit gondolsz a furcsa tornyokról, amiket a Káosz Smaragdok tárolására használnak?
     </text>
     <text name="sb2080_020" id="3824320436" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Contain? No. I think they're meant to protect them. Even harness their power.
+      Tárolására? Nem. Szerintem a védelmükre van. És az erejük hasznosítására.
     </text>
     <text name="sb2080_030" id="3824320563" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      You've experienced yourself the limitless power of the Chaos Emeralds.
+      Te magad is megtapasztaltad a Káosz Smaragdok határtalan erejét.
     </text>
     <text name="sb2080_040" id="3824320690" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Even if they didn't have them all, a couple would've provided more than enough energy to live comfortably.
+      Még ha nem is volt meg az összes, egy pár akkor is több mint elég energiát biztosít a kényelmes élethez.
     </text>
     <text name="sb2080_050" id="3824320817" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Enough to power the ruins, Cyber Space… I wonder...
-      If the Ancients somehow lost their access to the Emeralds, would that have caused them to disappear?
+      Elég a romok, a Kibertér energiaellátásához... Vajon...
+      az Ősök elvesztették a Smaragdokat, és az okozta volna az eltűnésüket?
     </text>
   </sheet>
   <fonts>

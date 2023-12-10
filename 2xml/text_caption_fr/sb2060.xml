@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="sb2060_010" id="2172090935" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Okay! Your flying nightmare is a step up from the giant. Very mobile. But it's going to end the same way.
+      Oké, a repülő rémálmod egy fokkal jobb, mint az óriás. Nagyon mozgékony. De ugyanúgy fog végződni.
     </text>
     <text name="sb2060_020" id="2172091062" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      How are you able to utilize the Chaos Emeralds?
+      Hogyan tudod használni a Káosz Smaragdokat?
     </text>
     <text name="sb2060_030" id="2172091189" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I must reassess the battle parameters. I cannot afford to have you win again.
+      Át kell értékelnem a harci paramétereket. Nem engedhetem meg magamnak, hogy újra győzz.
     </text>
     <text name="sb2060_040" id="2172091316" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Well, y'know, you could call it off and let me save my friends in peace?
+      Tudod, lefújhatnád az egészet, és hagyhatnád, hogy békében megmentsem a barátaimat.
     </text>
     <text name="sb2060_050" id="2172091443" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      No? Fine, we'll do it your way.
+      Nem? Rendben, akkor a te módszereddel csináljuk.
     </text>
   </sheet>
   <fonts>

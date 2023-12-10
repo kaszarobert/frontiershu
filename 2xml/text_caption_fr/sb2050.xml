@@ -2,19 +2,19 @@
 <cnvrsText>
   <sheet name="fr" index="4">
     <text name="sb2050_010" id="3493459896" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Have you been here before? You're navigating the island like it's nothing.
+      Jártál már itt korábban? Úgy tájékozódsz a szigeten, mintha mi sem lenne egyszerűbb.
     </text>
     <text name="sb2050_020" id="3493460023" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Oh no. See, when I interact with these things marked with this symbol, I automatically learn the lay of the land.
+      Egyáltalán nem. Tudod, amikor érintkezem ezekkel a szimbólummal megjelölt dolgokkal, automatikusan megtanulom a terepet.
     </text>
     <text name="sb2050_030" id="3493460150" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      It's like the island is beaming a GPS signal right into my brain. Pretty cool, right?
+      Mintha a sziget GPS-jelet sugározna az agyamba. Elég király, nem?
     </text>
     <text name="sb2050_040" id="3493460277" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      I'm sure that's the Ancients' doing as well. I wonder what that symbol means in their language?
+      Biztos, hogy ez is az Ősök műve. Vajon mit jelenthet ez a szimbólum a nyelvükön?
     </text>
     <text name="sb2050_050" id="3493460404" font="Range_FNT_subtitle" layout="Range_LAY_subtitle">
-      Come to think of it, you don't actually see it printed anywhere in the villages. I guess the true meaning is lost to time.
+      Ha jobban belegondolok, sehol sem látni kinyomtatva a falvakban. Gondolom, az igazi jelentése elveszett az idők során.
     </text>
   </sheet>
   <fonts>
